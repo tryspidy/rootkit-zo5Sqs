@@ -1,0 +1,1 @@
+A rootkit is a malicious software that allows an unauthorized user to have privileged access to a computer and to restricted areas of its software. A rootkit may contain a number of malicious tools such as keyloggers, banking credential stealers, password stealers, antivirus disablers
